@@ -1,3 +1,5 @@
+# Bello...!! 😜
+
 ## Welcome to my Testsite
 
 You can visit my [facebook Profile](https://www.facebook.com/swapnil.khare25) to just stalk me.
@@ -14,10 +16,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
