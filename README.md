@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/swapnil2597/pyshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can visit my [facebook Profile](https://www.facebook.com/swapnil.khare25) to just stalk me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Or you can visit my [LinkedIn Profile](https://www.linkedin.com/in/khareswapnil/) to check my current updates.
+
+I love coding in 'Python' and 'C++'.
 
 ### Markdown
 
