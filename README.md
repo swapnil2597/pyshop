@@ -5,7 +5,7 @@ You can visit my [facebook Profile](https://www.facebook.com/swapnil.khare25) to
 Or you can visit my [LinkedIn Profile](https://www.linkedin.com/in/khareswapnil/) to check my current updates.
 
 ```markdown
-I love coding in 'Python' and 'C++'.
+I love coding in `Python` and `C++`.
 ```
 
 ### Markdown
